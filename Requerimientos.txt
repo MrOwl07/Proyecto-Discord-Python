@@ -1,0 +1,6 @@
+El programa requiere de la instalacion por terminal de los siguientes comandos:
+
+1. pip install discord.py
+2. pip install python-dotenv
+
+De la misma manera otogar los permisos por medio de TOKEN en chat bot para desarrollo en Discord
